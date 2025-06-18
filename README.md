@@ -1,21 +1,49 @@
-# Revsing
+# 📘 Revsing — UI Practice App (Jetpack Compose)
 
-## 📱 About the Application
+**Revsing** is a small Jetpack Compose-based Android application created to help revise and reinforce core UI concepts after a break from development. It includes practical use of essential components like:
 
-This is a small Android app built using Jetpack Compose.  
-It includes examples of:
+- 🧾 **LazyColumn**
+- 🪟 **Dialogs**
+- 🎛 **Scaffold with Snackbar & Drawer state**
+- 🎨 **Custom UI elements**
+- ⚡ **Basic Compose animations**
 
-- `LazyColumn`
-- `Dialog`
-- `ScaffoldState`
-- And more UI essentials
+This app is not feature-heavy — its purpose is purely educational. It's designed as a **refresher project** for yourself and a **learning reference** for beginners looking to understand how common Jetpack Compose components work together in a simple UI.
 
-This app is primarily meant for **revision purposes** — after taking a long break from previous work, I'm using this to refresh my Compose skills.  
-It could also be useful for **beginners** looking to learn basic Compose components through a practical example.
+The structure and clean use of Compose APIs can help new developers get started and also assist returning developers in quickly revisiting the modern Android UI toolkit.
+
+---
+
+## ✅ Features
+
+- Reusable composables
+- Proper state management using `remember` and `mutableStateOf`
+- Scaffold layout with state handling
+- Lazy lists with item interaction
+- Light-weight animations for UI enhancement
+
+---
+
+## 📦 Download APK
+
+You can download the latest release APK directly from the [Releases](../../releases) section.
+
+> Example:  
+> [📥 Download app-debug.apk](https://github.com/Rohan-R07/Revising/releases/tag/v1.0)
+
+---
+
+## 🛠 Tech Stack
+
+- **Kotlin**
+- **Jetpack Compose**
+- **Material 3**
+- **Android Studio Meerkat |2024.3.2 or later**
+
+---
+
+## 🙌 Author
+
+Made by [Rohan R]
 
 
-## 📥 Download APK
-
-You can try the app by downloading the APK:
-
-[⬇️ Download APK] (https://github.com/Rohan-R07/Revising/releases/tag/v1.0)
